@@ -22,3 +22,7 @@ Work is tracked on our [project board](https://github.com/orgs/riseproject-dev/p
 - Contact us to get involved
 - Have a look at the [project board](https://github.com/orgs/riseproject-dev/projects/20) to see what's in progress
 - [Working Group Mailing List](https://lists.riseproject.dev/g/RISE-Security-Software-WG)
+
+## Resources
+
+* [Google Drive](https://drive.google.com/drive/folders/1SlTEaMt6nSEdHWR7294ba2YtoX--DFny?usp=sharing_eil_m&ts=6696895f)
